@@ -8,7 +8,7 @@ Topic: **Astrophysics**
       * https://esto.nasa.gov/Astrophysics/
         * In this website I could find tons of techology, mainly telescopes and their parts.
          * Detectors are devices that capture different wavelengths of light into a telescope. In this website I found detectors like Far IR, UVOIR, and UV, that capture Infra-red, Ultra-violet, and visible light from outer space into telescopes to convert them into electric signals that can be processed and analyzed by a computer.
-         * Lenses are a curved piece of glass, or plastic that refract light to magnify an image ___ These are mainly used in refracting telescopes.
+         * Lenses are a curved piece of glass, or plastic that refract light to magnify an image- - -These are mainly used in refracting telescopes.
 
 
    *  https://www.cfa.harvard.edu/research/topic/detector-technology.
