@@ -20,6 +20,18 @@ Topic: **Astrophysics**
   * https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs
   * https://en.wikipedia.org/wiki/List_of_software_for_astronomy_research_and_education
 
+## Explicitely Hardware
+
+* First seacrh: Astrophysics hardware.
+  * https://docs.google.com/presentation/d/1tiEprSDBrk5cpUIFGrCgLE9LvV68BuZik7HTYZZfEZg/edit?slide=id.gf63ab5f894_0_28#slide=id.gf63ab5f894_0_28
+    * Telescopes
+    * Spectrometers
+   
+ * Second search: Astrophysics gadgets
+   * https://www.astro-physics.com/cmos-adapters/
+     *CMOS Adapters
+       *serial devices
+
 
     
 ## Overview/Introduction/Context
