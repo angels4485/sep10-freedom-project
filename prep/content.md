@@ -32,14 +32,15 @@ Topic: **Astrophysics**
  * Second search: Astrophysics gadgets
    * https://www.astro-physics.com/cmos-adapters/
      * CMOS Adapters
-     A CMOS adapter is a mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.
-       * serial devices
+       * A CMOS adapter is a mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.
+
+      * serial devices
          * They are devices that communicate with computers or a telescope control system by sending data ,one bit at a time.
          * They are used for imaging, telescope control, or environmental monitoring.
 
     * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
-     * Photometers
-     * Bolometers
+      * Photometers
+      * Bolometers
      
 
 
