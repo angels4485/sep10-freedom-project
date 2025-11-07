@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2 :Researching the Problem
 ##### 11/10/25
 
 
