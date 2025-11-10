@@ -17,7 +17,7 @@ Topic: **Astrophysics**
 *   Second search: *Astrophysics softwares*.
   * https://astrobites.org/guides/guide-to-astrophysical-software/
     * Python, IDL, C/C++, and MATLAB are just a couple of the languages that help Astrophysicist search the Universe.
-  * https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs
+  * https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs This website has many softwares so I would recommend you to bookmark it if you're interested.
   * https://en.wikipedia.org/wiki/List_of_software_for_astronomy_research_and_education
 
 ## Explicitely Hardware
