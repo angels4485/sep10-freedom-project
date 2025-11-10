@@ -23,7 +23,7 @@ Topic: **Astrophysics**
 ## Explicitely Hardware
 
 * First seacrh: Astrophysics hardware.
-  * https://docs.google.com/presentation/d/1tiEprSDBrk5cpUIFGrCgLE9LvV68BuZik7HTYZZfEZg/edit?slide=id.gf63ab5f894_0_28#slide=id.gf63ab5f894_0_28
+  * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
     * Telescopes
       *  Telescopes are devices that magnify objects far away.
     * Spectrometers
