@@ -9,7 +9,7 @@ When it comes to software in Astrophysics I had a bit of a hard time finding tec
 ### Hardware
 One interesting invention I discovered in [Wikipedia](https://en.wikipedia.org/wiki/List_of_astronomical_instruments) is the spectrometer. A spectrometer is a device that measures the physical characteristics of objects by detecting light that's reflecting off an object and dividing it into its component wavelengths (like when light goes through a prism). 
 * In [The Center for Astrophysics](https://www.cfa.harvard.edu/research/topic/detector-technology) I saw another piece of technology that I found noteworthy, The Parker Solar Probe. The Parker Solar probe is a spacecraft that orbits the sun to study its atmosphere. 
-* I came across other intriguing inventions in a [website](https://www.astro-physics.com/cmos-adapters/) which selled Astrophysics gadgets, some of these were:
+* I came across other intriguing inventions in a [website](https://www.astro-physics.com/cmos-adapters/) which sells Astrophysics gadgets, some of these are:
     
     * Serial devices: devices that communicate with computers and telescope control systems.
     * CMOS adapters: mechanical or optical interface that connect a CMOS-based scientific camera to a telescope or other astronomical instruments.
