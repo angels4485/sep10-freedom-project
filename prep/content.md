@@ -34,7 +34,7 @@ Topic: **Astrophysics**
      * CMOS Adapters
         * A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.
      * CMOS Sensors
-        * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and converts it into an usable format (like an image or video).
+        * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).
         
 
       * serial devices
