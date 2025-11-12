@@ -4,6 +4,12 @@ Topic: **Astrophysics**
 ## Research
 
 ### Telescopes and their parts
+* First seacrh: Astrophysics hardware.
+  * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
+    * Telescopes
+      *  Telescopes are devices that magnify objects far away.
+      *  ]
+
 * [Astrophysics Division Technology](https://science.nasa.gov/astrophysics/programs/astrophysics-division-technology/)
     * After reading this page I didn't understand much of what it was talking about, but I clicked on a link that led me to a different website where you could find technology used in Astrophysics.
       * [Astrophysics Technology Development](https://esto.nasa.gov/Astrophysics/)
@@ -13,12 +19,19 @@ Topic: **Astrophysics**
 
 ### Programming Languages
 
-### Software
+ * https://astrobites.org/guides/guide-to-astrophysical-software/
+    * Python, IDL, C/C++, and MATLAB are just a couple of the languages that help Astrophysicist search the Universe.
+  * https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs This website has many softwares so I would recommend you to bookmark it if you're interested.
+  * https://en.wikipedia.org/wiki/List_of_software_for_astronomy_research_and_education
 
+### Software
+[Guide to Astrophysical Software](https://astrobites.org/guides/guide-to-astrophysical-software/) (go to the bottom of the page)
 ### Spacecrafts
 
 
 
+  *  https://www.cfa.harvard.edu/research/topic/detector-technology.
+    * The Parker Solar Probe is a spacecraft designed to fly in the Sun's outer atmosphere. The spacecraft is part of the Solar Wind Electrons Alphas and Protons (SWEAP) instrument suite, which takes electrically-charged particles directly from our Sun's atmosphere for study.
 
 
 
@@ -56,10 +69,7 @@ Topic: **Astrophysics**
 
 ### Explicitely Hardware
 
-* First seacrh: Astrophysics hardware.
-  * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
-    * Telescopes
-      *  Telescopes are devices that magnify objects far away.
+
     * Spectrometers
       * Spectrometers are devices that measure the physical characteristics of objects by detecting light that's reflecting off an object and dividing it into its component wavelenghts (like when light goes through a prism).
    
