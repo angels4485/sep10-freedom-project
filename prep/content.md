@@ -80,7 +80,7 @@ Topic: **Astrophysics**
 ### Explicitely Hardware
 
 
-    * Spectrometers
+  * Spectrometers
       * Spectrometers are devices that measure the physical characteristics of objects by detecting light that's reflecting off an object and dividing it into its component wavelenghts (like when light goes through a prism).
    
  * Second search: Astrophysics gadgets
