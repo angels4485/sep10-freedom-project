@@ -1,8 +1,27 @@
 # Content
 Topic: **Astrophysics**
 
-## Research
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+## Overview/Introduction/Context
+* Text
+* Text
+
+## Part A: existing technology
 ### Telescopes, their parts, and related tech
 * First seacrh: Astrophysics hardware.
   * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
@@ -51,29 +70,6 @@ Topic: **Astrophysics**
          * They are used for imaging, telescope control, or environmental monitoring.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-## Overview/Introduction/Context
-* Text
-* Text
-
-## Part A: existing technology
-* Tech
-  * Detail
-  * [image text](image URL)
 
 ## Part B: possible future technology
 * Idea
