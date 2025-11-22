@@ -1,21 +1,6 @@
 # Content
 Topic: **Astrophysics**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
 ## Overview/Introduction/Context
 * Text
@@ -26,7 +11,8 @@ Topic: **Astrophysics**
 * First seacrh: Astrophysics hardware.
   * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
     * Telescopes
-      *  Telescopes are devices that magnify objects far away. ![](https://www.google.com/imgres?q=telescope&imgurl=https%3A%2F%2Fdr282zn36sxxg.cloudfront.net%2Fdatastreams%2Ff-d%253A722dcdc3500c820d187cf2a01a95031fece22a589588cc3b89af8034%252BIMAGE_TINY%252BIMAGE_TINY.1&imgrefurl=https%3A%2F%2Fwww.ck12.org%2Fearth-science%2Ftelescopes%2Flesson%2Ftelescopes-hs-es%2F&docid=qe3WpygdqYr_3M&tbnid=68mMg0h96L3GiM&vet=12ahUKEwjZrsyUhoaRAxWjF1kFHc-iB0AQM3oECF8QAA..i&w=800&h=554&hcb=2&ved=2ahUKEwjZrsyUhoaRAxWjF1kFHc-iB0AQM3oECF8QAA)
+      *  Telescopes are devices that magnify objects far away.
+        ![](https://www.google.com/imgres?q=telescope&imgurl=https%3A%2F%2Fwww.ias-observatory.org%2Fimages%2Fphocagallery%2Fias%2Fteleskope%2Fiasweb-ias_12__lacerta_photo_newton_remote_telescope_2.jpg&imgrefurl=https%3A%2F%2Fwww.ias-observatory.org%2Findex.php%2Fen%2Fobservatories%2Fremote-2&docid=UlsXkqbhUT2zFM&tbnid=_RauYgeTzgKb5M&vet=12ahUKEwiXxNmIh4aRAxU9ElkFHR3nKz8QM3oECBEQAA..i&w=1024&h=576&hcb=2&ved=2ahUKEwiXxNmIh4aRAxU9ElkFHR3nKz8QM3oECBEQAA)
         
            
  * Second search: Astrophysics gadgets
