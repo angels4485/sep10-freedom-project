@@ -13,7 +13,7 @@ Topic: **Astrophysics**
     * Telescopes
       *  Telescopes are devices that magnify objects far away.
 
- ![](https://www.google.com/imgres?q=telescope&imgurl=https%3A%2F%2Fwww.ias-observatory.org%2Fimages%2Fphocagallery%2Fias%2Fteleskope%2Fiasweb-ias_12__lacerta_photo_newton_remote_telescope_2.jpg&imgrefurl=https%3A%2F%2Fwww.ias-observatory.org%2Findex.php%2Fen%2Fobservatories%2Fremote-2&docid=UlsXkqbhUT2zFM&tbnid=_RauYgeTzgKb5M&vet=12ahUKEwiXxNmIh4aRAxU9ElkFHR3nKz8QM3oECBEQAA..i&w=1024&h=576&hcb=2&ved=2ahUKEwiXxNmIh4aRAxU9ElkFHR3nKz8QM3oECBEQAAhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKonPPgOMH_9L_rTEuA1Jlf_2u42vxWE4YlA&s)
+ ![](telescope.jpeg)
         
            
  * Second search: Astrophysics gadgets
