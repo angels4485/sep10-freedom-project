@@ -23,7 +23,7 @@ Topic: **Astrophysics**
      * CMOS Sensors
         * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).
 
-        ![](cmos-censor.jpeg)
+        ![](cmos-censor.jpg)
 
 * [Astrophysics Division Technology](https://science.nasa.gov/astrophysics/programs/astrophysics-division-technology/)
     * After reading this page I didn't understand much of what it was talking about, but I clicked on a link that led me to a different website where you could find technology used in Astrophysics.
