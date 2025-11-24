@@ -3,8 +3,8 @@ Topic: **Astrophysics**
 
     
 ## Overview/Introduction/Context
-* Text
-* Text
+* Astrophysics technology that people should know about, and technology that could exist in the future.
+* All the hardware and software below is not explict to Astrophysics, but also other areas such as Astronomy.
 
 ## Part A: existing technology
 ### Telescopes, their parts, and related tech
