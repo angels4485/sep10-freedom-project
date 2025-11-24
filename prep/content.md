@@ -60,5 +60,15 @@ Topic: **Astrophysics**
 
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* A device that absorbs gravitational potential energy.
+    * This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.
+    * If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.
+* A spacecraft, satellite, or another device that could re-use its energy.
+    * This device would have to find a way of converting the energy lost as heat back into electrical energy, or a type of fuel.
+    * At first this device could be massive, but then with time and as our engineering knowledge increases we might be able to shrink it down to the size of a space telescope.
+  * A device that could exist in impossible physics, such as in a black hole.
+    * This is mostly hypothetical because we don’t even know how physics works inside something like a black hole, but maybe this device could resist the gravity of the black hole (potentially using a device that absorbs gravitational potential energy).
+
+* A device that could transform energy so fast that extreme heat wouldn’t affect it.
+    * This device could endure extreme temperatures such as the ones in the center of stars
+
