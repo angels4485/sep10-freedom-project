@@ -15,7 +15,7 @@ For instance, one invention I thought about was a device that absorbs gravitatio
 
 ## Takeaways
 
-When brainstorming these ideas I learned that I could use my creativity to imagine possible future inventions that could revolutionate the world
+When brainstorming these ideas I learned that I could use my creativity to imagine new possibilities, like tech, that could revolutionate the world. Brainstorming the ideas, I had to think about inventions that don't exist yet, and at first it was easy, but then it became more difficult because I was running out of ideas. Or at leas that is what I believed at first, but then I realized I could actually think of a lot of things, the only limitation was as you could guess, my imagination.
 
 
 
