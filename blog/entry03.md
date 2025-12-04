@@ -14,11 +14,8 @@ For instance, one invention I thought about was a device that absorbs gravitatio
 
 
 ## Takeaways
-When brainstorming these ideas i learned that I could think about new possibilities in areas I'm passionate about, and that 
 
-
-
-
+When brainstorming these ideas I learned that I could use my creativity to imagine possible future inventions that could revolutionate the world
 
 
 
