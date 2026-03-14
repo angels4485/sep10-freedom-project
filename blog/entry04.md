@@ -10,8 +10,7 @@ As I mentioned earlier, the first thing I did with Jekyll was watch a tutorial o
 <img src="prep/img/image1.png" alt="screenshot"> 
 
 In addition to this, I also tried linking a Yaml  file to Html and Markdown, but I wasn't very succesful. Despite of this, I think having tried this will help me have an idea of what it will be like to link these files together in the future.
-
-![screenshot](prep/img/Screenshot 2026-03-14 3.27.51 PM.png)
+<img src="prep/img/Screenshot 2026-03-14 3.27.51 PM.png" alt="screenshot"> 
 
 ### Skills
 Some of the skills that I gained while choosing and tinkering with my tool were being able to stick with something I don't fully understand, being able to download Jekyll, and to create a site.
