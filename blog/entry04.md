@@ -7,7 +7,7 @@ Before starting my project, one of the things that I do in order to ensure that 
 # Tinkering with Jekyll
 As I mentioned earlier, the first thing I did with Jekyll was watch a tutorial of how to install Jekyll. Once installed, I used a command to create a default "site" or website which showed some of what Yaml alone could do.
 
-<img src="prep/img/image1.png" alt="screenshot">
+<img src="prep/img/image1.png" alt="screenshot"> ![image](prep/img/image1.png)
 
 # Skills
 
