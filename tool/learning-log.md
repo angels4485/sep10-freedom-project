@@ -35,6 +35,10 @@ Date: 2026/03/2026
  * Tommorrow, I'll try to make some time to just see more ways in which jekyll can help me build a clean, professional website.
 
 
+4/11/26
+Today, I watched a video about Liquid, and how to use it in Jekyll. I learned that:
+* Liquid is a coding language which uses "{}" and "*" along with different statements in order to decide what you want or don't want to be displayed  on your page.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
