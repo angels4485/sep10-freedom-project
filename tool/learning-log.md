@@ -48,6 +48,11 @@ Today, I watched a video about Liquid, and how to use it in Jekyll. I learned th
 -->
 
 For the rest of this week, I plan to:
-Day 1: I will search in the Jekyll website and watch videos in order to learn Liquid and some Yaml.
-Day 2: I will search the Jekyll website in order to find anything that I still haven't learned about Jekyll.
-Day 3: I will tinker with Jekyll to see if I can create links to different blogs and so use it as a way to link different information (such as a link to a website that talks more deeply about something, or a copyright page)
+
+**Day 1**: I will search in the Jekyll website and watch videos in order to learn Liquid and some Yaml.
+
+For day one, I ended up going into [this website](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) where it talks about Liquid and some of the things that it does. I learned that Liquid can make calculations and you can use it to replace remove or replace text. If you want to have text saying something like "hello ___" ending with someone's username, you could use liquid in order to do this.
+
+**Day 2**: I will search the Jekyll website in order to find anything that I still haven't learned about Jekyll.
+
+**Day 3**: I will tinker with Jekyll to see if I can create links to different blogs and so use it as a way to link different information (such as a link to a website that talks more deeply about something, or a copyright page)
