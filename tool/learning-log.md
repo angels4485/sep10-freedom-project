@@ -46,3 +46,8 @@ Today, I watched a video about Liquid, and how to use it in Jekyll. I learned th
 * Questions you still have
 * What you're going to try next
 -->
+
+For the rest of this week, I plan to:
+Day 1: I will search in the Jekyll website and watch videos in order to learn Liquid and some Yaml.
+Day 2: I will search the Jekyll website in order to find anything that I still haven't learned about Jekyll.
+Day 3: I will tinker with Jekyll to see if I can create links to different blogs and so use it as a way to link different information (such as a link to a website that talks more deeply about something, or a copyright page)
