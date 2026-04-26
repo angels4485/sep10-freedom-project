@@ -55,4 +55,11 @@ For day one, I ended up going into [this website](https://github.com/Shopify/liq
 
 **Day 2**: I will search the Jekyll website in order to find anything that I still haven't learned about Jekyll.
 
+For day two I mostly just continued to learn Yaml
+
+
+
 **Day 3**: I will tinker with Jekyll to see if I can create links to different blogs and so use it as a way to link different information (such as a link to a website that talks more deeply about something, or a copyright page)
+
+
+https://www.youtube.com/watch?v=BEki_rsWu4E&t=73s
