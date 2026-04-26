@@ -11,13 +11,18 @@ Below, I will go through what I did to learn Jekyll and what Blog posts, themes,
 ### Blog posts
 Blog posts are websites where you can add projects, or information that you want people to see. Blog posts can also be used to create actual websites using Github. While I was learning Jekyll I watched [this video](https://www.youtube.com/watch?v=gsYqPL9EFwQ) from Giraffe Academy, which taught me how to create  blog posts.
 
-Inside of my IDE I created a new blog post where I would tinker with Jekyll. 
+Inside of my IDE I created a new blog post where I would tinker with Jekyll.
+
+![blog ss](blog-ss)
 
 
 
 ### Themes
- Themes are pre-determined layouts that can make a blog post look a certain way depending on the preference of the person who's creating the website. In order to learn how to add themes and where to look for them I watched [this](https://www.youtube.com/watch?v=NoRS2D-cyko&t=211s) video.
+Themes are pre-determined layouts that can make a blog post look a certain way depending on the preference of the person who's creating the website. In order to learn how to add themes and where to look for them I watched [this](https://www.youtube.com/watch?v=NoRS2D-cyko&t=211s) video.
 
+After watching the video I added the _minimal mistakes_ theme to my website.
+
+![theme ss](theme-ss)
 ### Yaml
 Yaml is a coding language that can be used as a substitute for JSON and XML
 [this](https://www.youtube.com/watch?v=BEki_rsWu4E&t=73s) video allowed me to understand how Yaml works and how I can use it to add the configuration for my website. In addition to that, I used this website: [idratherbewriting.com](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial), to learn Yaml and it turned out to be pretty helpful.
