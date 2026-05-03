@@ -1,0 +1,80 @@
+---
+layout: single
+title: "Freedom project"
+date: 2026-04-27
+---
+
+<div class="title">
+# Astrophysics
+</div>
+
+## Overview/Introduction/Context
+* Astrophysics technology that people should know about, and technology that could exist in the future.
+* All the hardware and software below is not explict to Astrophysics, but also other areas such as Astronomy.
+
+## Part A: existing technology
+### Telescopes, their parts, and related tech
+* First seacrh: Astrophysics hardware.
+  * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
+    * Telescopes
+      *  Telescopes are devices that magnify objects far away.
+
+ ![telescope image](telescope.jpeg)
+
+
+ * Second search: Astrophysics gadgets
+   * https://www.astro-physics.com/cmos-adapters/
+     * CMOS Adapters
+        * A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.
+     * CMOS Sensors
+        * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).
+
+        ![](../../prep/cmos-censor.jpg)
+
+* [Astrophysics Division Technology](https://science.nasa.gov/astrophysics/programs/astrophysics-division-technology/)
+   * [Astrophysics Technology Development](https://esto.nasa.gov/Astrophysics/)
+         * Detectors are devices that capture different wavelengths of light into a telescope. In this website I found detectors like Far IR, UVOIR, and UV, that capture Infra-red, Ultra-violet, and visible light from outer space into telescopes to convert them into electric signals that can be processed and analyzed by a computer.
+         * Lenses are a curved piece of glass, or plastic that refract light to magnify an image, These are mainly used in small refracting telescopes, and in camera lenses.
+
+  * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
+     * Photometers
+     * Bolometers
+
+### Programming Languages
+
+ * https://astrobites.org/guides/guide-to-astrophysical-software/
+    * Python, IDL, C/C++, and MATLAB are just a couple of the languages that help Astrophysicist search the Universe.
+  * https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs This website has many softwares so I would recommend you to bookmark it if you're interested.
+  * https://en.wikipedia.org/wiki/List_of_software_for_astronomy_research_and_education
+
+### Software
+[Guide to Astrophysical Software](https://astrobites.org/guides/guide-to-astrophysical-software/) (go to the bottom of the page)
+### Spacecrafts
+
+
+
+  *  https://www.cfa.harvard.edu/research/topic/detector-technology.
+    * The Parker Solar Probe is a spacecraft designed to fly in the Sun's outer atmosphere. The spacecraft is part of the Solar Wind Electrons Alphas and Protons (SWEAP) instrument suite, which takes electrically-charged particles directly from our Sun's atmosphere for study.
+
+
+### Others
+
+   * serial devices
+         * They are devices that communicate with computers or a telescope control system by sending data ,one bit at a time.
+         * They are used for imaging, telescope control, or environmental monitoring.
+
+
+
+## Part B: possible future technology
+* A device that absorbs gravitational potential energy.
+    * This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.
+    * If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.
+* A spacecraft, satellite, or another device that could re-use its energy.
+    * This device would have to find a way of converting the energy lost as heat back into electrical energy, or a type of fuel.
+    * At first this device could be massive, but then with time and as our engineering knowledge increases we might be able to shrink it down to the size of a space telescope.
+  * A device that could exist in impossible physics, such as in a black hole.
+    * This is mostly hypothetical because we don’t even know how physics works inside something like a black hole, but maybe this device could resist the gravity of the black hole (potentially using a device that absorbs gravitational potential energy).
+
+* A device that could transform energy so fast that extreme heat wouldn’t affect it.
+    * This device could endure extreme temperatures such as the ones in the center of stars
+
