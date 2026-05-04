@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Entry 1
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Entry 1: Deciding what I wanted.
