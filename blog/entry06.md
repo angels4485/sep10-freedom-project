@@ -1,3 +1,9 @@
+---
+layout: page
+title: Entry 1
+nav_exclude: true
+---
+
 # Entry 6
 ##### X/X/XX
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Entry 1
+nav_exclude: true
+---
+
 # Entry 5: Learning Jekyll
 ##### 4/27/26
 
