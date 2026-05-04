@@ -1,3 +1,9 @@
+---
+layout: page
+title: Entry 1
+nav_exclude: true
+---
+
 # Entry 1: Deciding what I wanted.
 ##### 10/10/25
 ## Astrophysics
@@ -21,4 +27,4 @@ I'm thrilled to start creating my freedom project and learn more about Astrophys
 [Next](entry02.md)
 
 
-[Home](../README.md) 
+[Home](../README.md)
