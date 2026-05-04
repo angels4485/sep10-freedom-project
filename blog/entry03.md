@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entry 1
+title: Entry 3
 nav_exclude: true
 ---
 
