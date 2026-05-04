@@ -25,6 +25,7 @@ title: My Projects
 email: angels4485@nycstudents.net
 description: >- # this means to ignore newlines until "baseurl:"
   This site is meant to be for all of my projects, kind of like a portfolio, but public :)
+  Click the name of a Project in order to see it.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
