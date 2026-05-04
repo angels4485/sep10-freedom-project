@@ -4,9 +4,10 @@ title: "Freedom project"
 date: 2026-04-27
 ---
 
-<div class="title">
+<!-- <div class="title">
 <h1> Astrophysics</h1>
-</div>
+</div> -->
+# Astrophysics 
 
 ## Overview/Introduction/Context
 * Astrophysics technology that people should know about, and technology that could exist in the future.
