@@ -47,9 +47,9 @@ I will start by adding a Jekyll theme and then adding all of the content so I ca
 #### Peer Feedback
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
-|  |  |  |
-|  |  |  |
+| Jasmine |I like how detailed your project is,and how organized it is| Maybe add a color scheme to make it more libely? Or is the white background intentional?|9
+| William C | I love the detail in your project and how there are various links to websites | I think the color was very vague, and recommend using some bright colors like maybe yellow. Also adding an accordion to organize you bulletpoints can be useful |
+| Jasmina | I really like how you have alot of things going on in your website and its all organized and easy to understand. | One grow I think would be to add some images and maybe add some colors and change the font. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
