@@ -21,7 +21,7 @@ date: 2026-04-27
     * Telescopes
       *  Telescopes are devices that magnify objects far away.
 
- ![telescope image]({{ '_prep/telescope.jpeg' | relative_url }})
+ ![telescope image]({{ '../_prep/telescope.jpeg' | relative_url }})
 <!-- ../_prep/telescope.jpeg -->
 
  * Second search: Astrophysics gadgets
