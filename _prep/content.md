@@ -1,7 +1,7 @@
 # Content
 Topic: **Astrophysics**
 
-    
+
 ## Overview/Introduction/Context
 * Astrophysics technology that people should know about, and technology that could exist in the future.
 * All the hardware and software below is not explict to Astrophysics, but also other areas such as Astronomy.
@@ -13,9 +13,9 @@ Topic: **Astrophysics**
     * Telescopes
       *  Telescopes are devices that magnify objects far away.
 
- ![](telescope.jpeg)
-        
-           
+ ![](../_prep/img/telescope.jpeg)
+
+
  * Second search: Astrophysics gadgets
    * https://www.astro-physics.com/cmos-adapters/
      * CMOS Adapters
@@ -29,7 +29,7 @@ Topic: **Astrophysics**
    * [Astrophysics Technology Development](https://esto.nasa.gov/Astrophysics/)
          * Detectors are devices that capture different wavelengths of light into a telescope. In this website I found detectors like Far IR, UVOIR, and UV, that capture Infra-red, Ultra-violet, and visible light from outer space into telescopes to convert them into electric signals that can be processed and analyzed by a computer.
          * Lenses are a curved piece of glass, or plastic that refract light to magnify an image, These are mainly used in small refracting telescopes, and in camera lenses.
-       
+
   * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
      * Photometers
      * Bolometers

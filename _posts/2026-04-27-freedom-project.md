@@ -7,7 +7,33 @@ date: 2026-04-27
 <!-- <div class="title">
 <h1> Astrophysics</h1>
 </div> -->
-# Astrophysics 
+{% raw %}
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Freedom Project</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Existing tech</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Future tech</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+{% endraw %}
+# Astrophysics
 
 ## Overview/Introduction/Context
 * Astrophysics technology that people should know about, and technology that could exist in the future.
@@ -20,7 +46,7 @@ date: 2026-04-27
     * Telescopes
       *  Telescopes are devices that magnify objects far away.
 
- ![telescope image](telescope.jpeg)
+ ![telescope image](../_prep/telescope.jpeg)
 
 
  * Second search: Astrophysics gadgets
@@ -30,7 +56,7 @@ date: 2026-04-27
      * CMOS Sensors
         * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).
 
-        ![](../../prep/cmos-censor.jpg)
+        ![](../_prep/cmos-censor.jpg)
 
 * [Astrophysics Division Technology](https://science.nasa.gov/astrophysics/programs/astrophysics-division-technology/)
    * [Astrophysics Technology Development](https://esto.nasa.gov/Astrophysics/)
