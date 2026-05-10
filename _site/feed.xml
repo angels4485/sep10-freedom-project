@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/sep10-freedom-project/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/sep10-freedom-project/" rel="alternate" type="text/html" /><updated>2026-05-03T22:47:15-04:00</updated><id>http://localhost:4000/sep10-freedom-project/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :)</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/sep10-freedom-project/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/sep10-freedom-project/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/sep10-freedom-project/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-09T22:27:59-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
 <h1> Astrophysics</h1>
 </div> -->
-<h1 id="astrophysics">Astrophysics</h1>
+
+<h1 class="title">Astrophysics</h1>
 
 <h2 id="overviewintroductioncontext">Overview/Introduction/Context</h2>
 <ul>
@@ -27,7 +28,7 @@
   </li>
 </ul>
 
-<p><img src="telescope.jpeg" alt="telescope image" /></p>
+<p><img src="/_prep/telescope.jpeg" alt="telescope image" /></p>
 
 <ul>
   <li>Second search: Astrophysics gadgets
@@ -44,7 +45,7 @@
               <li>A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).</li>
             </ul>
 
-            <p><img src="../../prep/cmos-censor.jpg" alt="" /></p>
+            <p><img src="/_prep/cmos-censor.jpg" alt="" /></p>
           </li>
         </ul>
       </li>
@@ -98,27 +99,32 @@
 </ul>
 
 <h2 id="part-b-possible-future-technology">Part B: possible future technology</h2>
-<ul>
-  <li>A device that absorbs gravitational potential energy.
-    <ul>
-      <li>This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.</li>
-      <li>If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.</li>
-    </ul>
-  </li>
-  <li>A spacecraft, satellite, or another device that could re-use its energy.
-    <ul>
-      <li>This device would have to find a way of converting the energy lost as heat back into electrical energy, or a type of fuel.</li>
-      <li>At first this device could be massive, but then with time and as our engineering knowledge increases we might be able to shrink it down to the size of a space telescope.</li>
-      <li>A device that could exist in impossible physics, such as in a black hole.
-        <ul>
-          <li>This is mostly hypothetical because we don’t even know how physics works inside something like a black hole, but maybe this device could resist the gravity of the black hole (potentially using a device that absorbs gravitational potential energy).</li>
+
+<div class="container">
+  <div class="row">
+    <div class="card col-md-4" style="width: 700px;">
+      <div class="card-body">
+        <h4 class="card-title"> A device that absorbs gravitational potential energy.</h4>
+        <ul class="card-text">
+          <li> This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.</li>
+          <li> If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.</li>
         </ul>
-      </li>
-    </ul>
-  </li>
-  <li>A device that could transform energy so fast that extreme heat wouldn’t affect it.
-    <ul>
-      <li>This device could endure extreme temperatures such as the ones in the center of stars</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Astrophysics]]></summary></entry></feed>
+      </div>
+    </div>
+    <div class="card col-md-4" style="width: 700px;">
+      <div class="card-body">
+        <h4 class="card-title"> A spacecraft, satellite, or another device that could re-use its energy.</h4>
+        <p class="card-text"> This device would have to find a way of converting the energy lost as heat back into electrical energy, or a type of fuel.</p>
+        <p class="card-text">At first this device could be massive, but then with time and as our engineering knowledge increases we might be able to shrink it down to the size of a space telescope.</p>
+      </div>
+    </div>
+    <div class="card col-md-4" style="width: 700px;">
+      <div class="card-body">
+        <h4 class="card-title"> A device that could exist in impossible physics, such as in a black hole.</h4>
+        <p> This is mostly hypothetical because we don’t even know how physics works inside something like a black hole, but maybe this device could resist the gravity of the black hole (potentially using a device that absorbs gravitational potential energy).</p>
+        <p>A device that could transform energy so fast that extreme heat wouldn’t affect it.</p>
+        <p>This device could endure extreme temperatures such as the ones in the center of stars</p>
+      </div>
+    </div>
+  </div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>

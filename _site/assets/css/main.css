@@ -1,8 +1,20 @@
-body{
-    background-color:beige;
+/* ---
+---
+@import "{{ site.theme }}";
+ */
 
+body{
+    background-image:url("/imgs/stars.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+    background:black;
 }
 
 .title{
     text-align:center;
+}
+
+.card {
+    margin:5px;
 }
