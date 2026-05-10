@@ -8,8 +8,9 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 600px;
-    background:black;
+    background:#1A1A1A !important ;
     font-size:20px;
+    color:white !important;
 }
 
 .title{

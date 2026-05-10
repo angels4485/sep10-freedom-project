@@ -1,102 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-10T00:05:58-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-10T00:42:18-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
 <h1> Astrophysics</h1>
 </div> -->
 
 <h1 class="title">Astrophysics</h1>
 
 <h2 id="overviewintroductioncontext">Overview/Introduction/Context</h2>
-<ul>
-  <li>Astrophysics technology that people should know about, and technology that could exist in the future.</li>
-  <li>All the hardware and software below is not explict to Astrophysics, but also other areas such as Astronomy.</li>
-</ul>
+<p>Astrophysics is a branch of space science that applies the laws of physics and chemistry to seek to understand the universe and our place in it. This field explores topics such as the birth, life and death of stars, planets, galaxies, nebulae and other objects in the universe, and it is closely related to astronomy and cosmology.</p>
 
-<h2 id="part-a-existing-technology">Part A: existing technology</h2>
+<p>In this page, you will see many of the technologies which are currently being used in this field and technologies that could possibly exist in the future.</p>
+
+<h2 id="existing-technology">Existing Technology</h2>
+<p>As I mentioned earlier, Astrophysics is closely related to astronomy and cosmology. Therefore, some of the technologies that you will see are used for all of these three fields.</p>
+
 <h3 id="telescopes-their-parts-and-related-tech">Telescopes, their parts, and related tech</h3>
-<ul>
-  <li>First seacrh: Astrophysics hardware.
-    <ul>
-      <li>https://en.wikipedia.org/wiki/List_of_astronomical_instruments
-        <ul>
-          <li>Telescopes
-            <ul>
-              <li>Telescopes are devices that magnify objects far away.</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
+<p>Telescopes are devices that magnify objects that are far away. The name “telescope” covers a wide range of instruments. Most detect electromagnetic radiation, but there are major differences in how astronomers must go about collecting light (electromagnetic radiation) in different frequency bands.</p>
 
 <p><img src="/prep/telescope.jpeg" alt="telescope image" /></p>
 
-<ul>
-  <li>Second search: Astrophysics gadgets
-    <ul>
-      <li>https://www.astro-physics.com/cmos-adapters/
-        <ul>
-          <li>CMOS Adapters
-            <ul>
-              <li>A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.</li>
-            </ul>
-          </li>
-          <li>CMOS Sensors
-            <ul>
-              <li>A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).</li>
-            </ul>
+<h3 id="cmos-chips">CMOS chips</h3>
 
-            <p><img src="/prep/cmos-censor.jpg" alt="" /></p>
-          </li>
-        </ul>
-      </li>
+<p>These are modern digital imaging chips that convert light into electrons for capturing astronomical images. In astrophysics, they are rapidly replacing older CCD technologies due to superior speed, extremely low read noise, and high quantum efficiency (light sensitivity).</p>
+
+<ul>
+  <li>CMOS Adapters
+    <ul>
+      <li>A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.</li>
     </ul>
   </li>
-  <li><a href="https://science.nasa.gov/astrophysics/programs/astrophysics-division-technology/">Astrophysics Division Technology</a>
+  <li>CMOS Sensors
     <ul>
       <li>
-        <p><a href="https://esto.nasa.gov/Astrophysics/">Astrophysics Technology Development</a>
-    * Detectors are devices that capture different wavelengths of light into a telescope. In this website I found detectors like Far IR, UVOIR, and UV, that capture Infra-red, Ultra-violet, and visible light from outer space into telescopes to convert them into electric signals that can be processed and analyzed by a computer.
-    * Lenses are a curved piece of glass, or plastic that refract light to magnify an image, These are mainly used in small refracting telescopes, and in camera lenses.</p>
-      </li>
-      <li>
-        <p>https://en.wikipedia.org/wiki/List_of_astronomical_instruments</p>
-        <ul>
-          <li>Photometers</li>
-          <li>Bolometers</li>
-        </ul>
+        <p>A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).</p>
+
+        <p><img src="/prep/cmos-censor.jpg" alt="" /></p>
       </li>
     </ul>
   </li>
 </ul>
+
+<p>#### Far IR</p>
+
+<p>#### UVOIR</p>
+
+<p>#### UV</p>
+
+<p>that capture Infra-red, Ultra-violet, and visible light from outer space into telescopes to convert them into electric signals that can be processed and analyzed by a computer.</p>
+
+<h3 id="lenses">Lenses</h3>
+<p>Lenses are a curved piece of glass, or plastic that refract light to magnify an image, These are mainly used in small refracting telescopes, and in camera lenses.</p>
+
+<h3 id="photometers">Photometers</h3>
+<h3 id="bolometers">Bolometers</h3>
 
 <h3 id="programming-languages">Programming Languages</h3>
 
-<ul>
-  <li>https://astrobites.org/guides/guide-to-astrophysical-software/
-    <ul>
-      <li>Python, IDL, C/C++, and MATLAB are just a couple of the languages that help Astrophysicist search the Universe.</li>
-    </ul>
-  </li>
-  <li>https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs This website has many softwares so I would recommend you to bookmark it if you’re interested.</li>
-  <li>https://en.wikipedia.org/wiki/List_of_software_for_astronomy_research_and_education</li>
-</ul>
+<h4 id="python">Python</h4>
+<h4 id="idl">IDL</h4>
+<h4 id="cc">C/C++</h4>
+<h4 id="matlab">MATLAB</h4>
 
 <h3 id="software">Software</h3>
-<p><a href="https://astrobites.org/guides/guide-to-astrophysical-software/">Guide to Astrophysical Software</a> (go to the bottom of the page)</p>
+
 <h3 id="spacecrafts">Spacecrafts</h3>
 
-<ul>
-  <li>https://www.cfa.harvard.edu/research/topic/detector-technology.
-    * The Parker Solar Probe is a spacecraft designed to fly in the Sun’s outer atmosphere. The spacecraft is part of the Solar Wind Electrons Alphas and Protons (SWEAP) instrument suite, which takes electrically-charged particles directly from our Sun’s atmosphere for study.</li>
-</ul>
+<h4 id="the-parker-solar-probe">The Parker Solar Probe</h4>
+
+<p>The Parker Solar Probe is a spacecraft designed to fly in the Sun’s outer atmosphere. The spacecraft is part of the Solar Wind Electrons Alphas and Protons (SWEAP) instrument suite, which takes electrically-charged particles directly from our Sun’s atmosphere for study.</p>
 
 <h3 id="others">Others</h3>
 
-<ul>
-  <li>serial devices
-    * They are devices that communicate with computers or a telescope control system by sending data ,one bit at a time.
-    * They are used for imaging, telescope control, or environmental monitoring.</li>
-</ul>
+<h4 id="serial-devices">serial devices</h4>
+
+<p>They are devices that communicate with computers or a telescope control system by sending data ,one bit at a time. They are used for imaging, telescope control, or environmental monitoring.</p>
 
 <h2 id="part-b-possible-future-technology">Part B: possible future technology</h2>
 

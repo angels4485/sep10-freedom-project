@@ -11,59 +11,68 @@ date: 2026-04-27
 <h1 class="title">Astrophysics</h1>
 
 ## Overview/Introduction/Context
-* Astrophysics technology that people should know about, and technology that could exist in the future.
-* All the hardware and software below is not explict to Astrophysics, but also other areas such as Astronomy.
+Astrophysics is a branch of space science that applies the laws of physics and chemistry to seek to understand the universe and our place in it. This field explores topics such as the birth, life and death of stars, planets, galaxies, nebulae and other objects in the universe, and it is closely related to astronomy and cosmology.
 
-## Part A: existing technology
+In this page, you will see many of the technologies which are currently being used in this field and technologies that could possibly exist in the future.
+
+
+
+## Existing Technology
+As I mentioned earlier, Astrophysics is closely related to astronomy and cosmology. Therefore, some of the technologies that you will see are used for all of these three fields.
+
 ### Telescopes, their parts, and related tech
-* First seacrh: Astrophysics hardware.
-  * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
-    * Telescopes
-      *  Telescopes are devices that magnify objects far away.
+Telescopes are devices that magnify objects that are far away. The name "telescope" covers a wide range of instruments. Most detect electromagnetic radiation, but there are major differences in how astronomers must go about collecting light (electromagnetic radiation) in different frequency bands.
+
 
  ![telescope image]({{"./prep/telescope.jpeg" | relative_url}})
 
+### CMOS chips
 
- * Second search: Astrophysics gadgets
-   * https://www.astro-physics.com/cmos-adapters/
-     * CMOS Adapters
-        * A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.
-     * CMOS Sensors
-        * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).
+ These are modern digital imaging chips that convert light into electrons for capturing astronomical images. In astrophysics, they are rapidly replacing older CCD technologies due to superior speed, extremely low read noise, and high quantum efficiency (light sensitivity).
+
+ * CMOS Adapters
+    * A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.
+ * CMOS Sensors
+   * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).
 
         ![]({{"./prep/cmos-censor.jpg" | relative_url}})
 
-* [Astrophysics Division Technology](https://science.nasa.gov/astrophysics/programs/astrophysics-division-technology/)
-   * [Astrophysics Technology Development](https://esto.nasa.gov/Astrophysics/)
-         * Detectors are devices that capture different wavelengths of light into a telescope. In this website I found detectors like Far IR, UVOIR, and UV, that capture Infra-red, Ultra-violet, and visible light from outer space into telescopes to convert them into electric signals that can be processed and analyzed by a computer.
-         * Lenses are a curved piece of glass, or plastic that refract light to magnify an image, These are mainly used in small refracting telescopes, and in camera lenses.
+ #### Far IR
 
-  * https://en.wikipedia.org/wiki/List_of_astronomical_instruments
-     * Photometers
-     * Bolometers
+ #### UVOIR
+ 
+ #### UV
+
+ that capture Infra-red, Ultra-violet, and visible light from outer space into telescopes to convert them into electric signals that can be processed and analyzed by a computer.
+
+### Lenses
+Lenses are a curved piece of glass, or plastic that refract light to magnify an image, These are mainly used in small refracting telescopes, and in camera lenses.
+
+### Photometers
+### Bolometers
 
 ### Programming Languages
 
- * https://astrobites.org/guides/guide-to-astrophysical-software/
-    * Python, IDL, C/C++, and MATLAB are just a couple of the languages that help Astrophysicist search the Universe.
-  * https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs This website has many softwares so I would recommend you to bookmark it if you're interested.
-  * https://en.wikipedia.org/wiki/List_of_software_for_astronomy_research_and_education
+#### Python
+#### IDL
+#### C/C++
+#### MATLAB
+
 
 ### Software
-[Guide to Astrophysical Software](https://astrobites.org/guides/guide-to-astrophysical-software/) (go to the bottom of the page)
+
 ### Spacecrafts
 
+#### The Parker Solar Probe
 
-
-  *  https://www.cfa.harvard.edu/research/topic/detector-technology.
-    * The Parker Solar Probe is a spacecraft designed to fly in the Sun's outer atmosphere. The spacecraft is part of the Solar Wind Electrons Alphas and Protons (SWEAP) instrument suite, which takes electrically-charged particles directly from our Sun's atmosphere for study.
+ The Parker Solar Probe is a spacecraft designed to fly in the Sun's outer atmosphere. The spacecraft is part of the Solar Wind Electrons Alphas and Protons (SWEAP) instrument suite, which takes electrically-charged particles directly from our Sun's atmosphere for study.
 
 
 ### Others
 
-   * serial devices
-         * They are devices that communicate with computers or a telescope control system by sending data ,one bit at a time.
-         * They are used for imaging, telescope control, or environmental monitoring.
+#### serial devices
+
+ They are devices that communicate with computers or a telescope control system by sending data ,one bit at a time. They are used for imaging, telescope control, or environmental monitoring.
 
 
 
