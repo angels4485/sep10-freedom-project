@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-09T22:27:59-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-10T00:05:58-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
 <h1> Astrophysics</h1>
 </div> -->
 
@@ -28,7 +28,7 @@
   </li>
 </ul>
 
-<p><img src="/_prep/telescope.jpeg" alt="telescope image" /></p>
+<p><img src="/prep/telescope.jpeg" alt="telescope image" /></p>
 
 <ul>
   <li>Second search: Astrophysics gadgets
@@ -45,7 +45,7 @@
               <li>A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).</li>
             </ul>
 
-            <p><img src="/_prep/cmos-censor.jpg" alt="" /></p>
+            <p><img src="/prep/cmos-censor.jpg" alt="" /></p>
           </li>
         </ul>
       </li>

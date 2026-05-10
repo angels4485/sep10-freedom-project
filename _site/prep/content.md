@@ -1,14 +1,6 @@
----
-layout: post
-title: "Freedom project"
-date: 2026-04-27
----
+# Content
+Topic: **Astrophysics**
 
-<!-- <div class="title">
-<h1> Astrophysics</h1>
-</div> -->
-
-<h1 class="title">Astrophysics</h1>
 
 ## Overview/Introduction/Context
 * Astrophysics technology that people should know about, and technology that could exist in the future.
@@ -21,7 +13,7 @@ date: 2026-04-27
     * Telescopes
       *  Telescopes are devices that magnify objects far away.
 
- ![telescope image]({{"./prep/telescope.jpeg" | relative_url}})
+ ![](../_prep/img/telescope.jpeg)
 
 
  * Second search: Astrophysics gadgets
@@ -31,7 +23,7 @@ date: 2026-04-27
      * CMOS Sensors
         * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).
 
-        ![]({{"./prep/cmos-censor.jpg" | relative_url}})
+        ![](cmos-censor.jpg)
 
 * [Astrophysics Division Technology](https://science.nasa.gov/astrophysics/programs/astrophysics-division-technology/)
    * [Astrophysics Technology Development](https://esto.nasa.gov/Astrophysics/)
@@ -68,32 +60,15 @@ date: 2026-04-27
 
 
 ## Part B: possible future technology
+* A device that absorbs gravitational potential energy.
+    * This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.
+    * If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.
+* A spacecraft, satellite, or another device that could re-use its energy.
+    * This device would have to find a way of converting the energy lost as heat back into electrical energy, or a type of fuel.
+    * At first this device could be massive, but then with time and as our engineering knowledge increases we might be able to shrink it down to the size of a space telescope.
+  * A device that could exist in impossible physics, such as in a black hole.
+    * This is mostly hypothetical because we don’t even know how physics works inside something like a black hole, but maybe this device could resist the gravity of the black hole (potentially using a device that absorbs gravitational potential energy).
 
-<div class="container">
-  <div class="row">
-    <div class="card col-md-4" style="width: 700px;">
-      <div class="card-body">
-        <h4 class="card-title"> A device that absorbs gravitational potential energy.</h4>
-        <ul class="card-text">
-          <li> This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.</li>
-          <li> If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.</li>
-        </ul>
-      </div>
-    </div>
-    <div class="card col-md-4" style="width: 700px;">
-      <div class="card-body">
-        <h4 class="card-title"> A spacecraft, satellite, or another device that could re-use its energy.</h4>
-        <p class="card-text"> This device would have to find a way of converting the energy lost as heat back into electrical energy, or a type of fuel.</p>
-        <p class="card-text">At first this device could be massive, but then with time and as our engineering knowledge increases we might be able to shrink it down to the size of a space telescope.</p>
-      </div>
-    </div>
-    <div class="card col-md-4" style="width: 700px;">
-      <div class="card-body">
-        <h4 class="card-title"> A device that could exist in impossible physics, such as in a black hole.</h4>
-        <p> This is mostly hypothetical because we don’t even know how physics works inside something like a black hole, but maybe this device could resist the gravity of the black hole (potentially using a device that absorbs gravitational potential energy).</p>
-        <p>A device that could transform energy so fast that extreme heat wouldn’t affect it.</p>
-        <p>This device could endure extreme temperatures such as the ones in the center of stars</p>
-      </div>
-    </div>
-  </div>
-</div>
+* A device that could transform energy so fast that extreme heat wouldn’t affect it.
+    * This device could endure extreme temperatures such as the ones in the center of stars
+
