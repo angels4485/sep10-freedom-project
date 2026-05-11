@@ -5,3 +5,5 @@
 layout: home
 title: Projects
 ---
+
+<div id="home"></div>

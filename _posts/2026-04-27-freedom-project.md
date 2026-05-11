@@ -37,29 +37,60 @@ Telescopes are devices that magnify objects that are far away. The name "telesco
 
         ![]({{"./prep/cmos-censor.jpg" | relative_url}})
 
- #### Far IR
+#### Far IR
 
- #### UVOIR
- 
- #### UV
+The far-IR is a powerful but relatively unexplored spectral band that can enable study of the birth and infancy of galaxies.
 
- that capture Infra-red, Ultra-violet, and visible light from outer space into telescopes to convert them into electric signals that can be processed and analyzed by a computer.
+Far Infrared detectors are devices that measure thermal radiation, typically in the 20 to 500-micron range, used extensively for astronomical studies of dust-obscured galaxies and non-contact temperature sensing.
+
+#### UVOIR
+Ultra Violet, optical, and infra red detectors are specialized sensors used for sensing electromagnetic radiation across different spectrums, often combined to enhance detection accuracy and eliminate false alarms in safety, security, and scientific applications.
+
+#### UV
+
+specialized instruments designed to detect photons in the 10-320 nm range, crucial for studying hot stars, galaxy evolution, and intergalactic gas. Modern detectors, including MCPs and 2D-doped CMOS sensors, emphasize high quantum efficiency, high resolution, and solar-blindness to filter out visible light
+
 
 ### Lenses
+
 Lenses are a curved piece of glass, or plastic that refract light to magnify an image, These are mainly used in small refracting telescopes, and in camera lenses.
 
 ### Photometers
-### Bolometers
 
+A photometer is an instrument for measuring photometric quantities such as luminous flux, illuminance, or luminance. Most modern photometers detect light by converting it into an electric current using a photoresistor, photodiode, or photomultiplier. Some models employ photon counting, measuring light by counting individual photons. They are especially useful in areas where the irradiance is low. Photometers have wide-ranging applications including photography, where they determine the correct exposure, and science, where they are used in absorption spectroscopy to calculate the concentration of substances in a solution, infrared spectroscopy to study the structure of substances, and atomic absorption spectroscopy to determine the concentration of metals in a solution.
+### Bolometers
+Bolometers are ultra-sensitive instruments designed to detect and measure radiant heat (electromagnetic radiation) by monitoring the change in electrical resistance of a material as it warms up.
 ### Programming Languages
 
 #### Python
+Python is a high-level, interpreted, and versatile programming language known for its simple, readable syntax, which often mimics English.
+
+Astronomers use Python to reduce raw data from telescopes—such as the Mars rover or LIGO—into usable formats, performing statistical calculations and cleaning noisy datasets. While heavy-duty simulations are often written in C++ for speed, Python is used to build smaller-scale models like N-body gravitational simulations or to analyze the outputs of large-scale cosmological simulations.
+
+
+
 #### IDL
+IDL is a type of specification language used to allow software components written in different programming languages to communicate.
+
+IDL is used for rapid image processing, such as creating star maps and analyzing signals by creating histograms or manipulating image arrays. Additionally, it is the standard tool for reading, editing, and saving FITS (Flexible Image Transport System) images, which are common in astronomical imaging.
+
 #### C/C++
+C and C++ are high-performance programming languages used to build everything from operating systems to high-end video games. While C++ was originally created as an extension of C, they are now distinct languages with different philosophies and capabilities.
+
+Astrophysics uses these two languages in order to run complex numerical simulations (such as N-body, magneto-hydrodynamics) and processing massive datasets from telescopes.
 #### MATLAB
+A programming language and interactive computing environment designed specifically for engineers and scientist.
+
+MATLAB is used to control hardware in real-time, such as in the LIGO gravitational wave detectors. It is also used in spacecraft design to model the field of view of instruments.
 
 
 ### Software
+
+#### MacOS
+MacOS is a unix-based operating system developed by Apple Inc. It's known for its user-friendly interface, high security, and strong integration with the Apple ecosystem.
+
+Professional astronomers use macOS as a "daily driver" for data analysis, reduction of data from tools like ALMA, and machine learning development. Modern Apple Silicon (M1/M2/M3) chips offer high energy efficiency and strong performance, suitable for heavy simulation work when combined with cloud/cluster access. Additionally, tools such as KStars/EKOS and INDIGO A1 provide full, native telescope automation and imaging pipelines.
+
 
 ### Spacecrafts
 
