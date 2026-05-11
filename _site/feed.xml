@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-10T21:34:19-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-10T23:15:21-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
 <h1> Astrophysics</h1>
 </div> -->
 
@@ -9,7 +9,7 @@
 
 <p>In this page, you will see many of the technologies which are currently being used in this field and technologies that could possibly exist in the future.</p>
 
-<h2 id="existing-technology">Existing Technology</h2>
+<h2 id="existing-tech"> Existing Technology </h2>
 <p>As I mentioned earlier, Astrophysics is closely related to astronomy and cosmology. Therefore, some of the technologies that you will see are used for all of these three fields.</p>
 
 <h3 id="telescopes-their-parts-and-related-tech">Telescopes, their parts, and related tech</h3>
@@ -20,23 +20,26 @@
 <h3 id="cmos-chips">CMOS chips</h3>
 
 <p>These are modern digital imaging chips that convert light into electrons for capturing astronomical images. In astrophysics, they are rapidly replacing older CCD technologies due to superior speed, extremely low read noise, and high quantum efficiency (light sensitivity).</p>
-
-<ul>
-  <li>CMOS Adapters
+<div class="container">
+  <div class="row">
+    <div>
+  <ul>
+    <li> CMOS Adapters</li>
     <ul>
-      <li>A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.</li>
+        <li> A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.</li>
     </ul>
-  </li>
-  <li>CMOS Sensors
+    <img src="imgs/CMOS.webp" />
+    <li> CMOS Sensors</li>
     <ul>
-      <li>
-        <p>A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).</p>
-
-        <p><img src="/prep/cmos-censor.jpg" alt="" /></p>
-      </li>
+      <li> A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).</li>
     </ul>
-  </li>
-</ul>
+  </ul>
+    </div>
+  </div>
+</div>
+
+<p><img src="/prep/cmos-censor.jpg" alt="" />
+<!-- <img src="/prep/cmos-censor.jpg"alt="censor image"> --></p>
 
 <h4 id="far-ir">Far IR</h4>
 
@@ -44,6 +47,7 @@
 
 <p>Far Infrared detectors are devices that measure thermal radiation, typically in the 20 to 500-micron range, used extensively for astronomical studies of dust-obscured galaxies and non-contact temperature sensing.</p>
 
+<p><img src="/imgs/FIR.jpeg" alt="FIR detector" /></p>
 <h4 id="uvoir">UVOIR</h4>
 <p>Ultra Violet, optical, and infra red detectors are specialized sensors used for sensing electromagnetic radiation across different spectrums, often combined to enhance detection accuracy and eliminate false alarms in safety, security, and scientific applications.</p>
 
@@ -100,7 +104,7 @@
 
 <p>They are devices that communicate with computers or a telescope control system by sending data ,one bit at a time. They are used for imaging, telescope control, or environmental monitoring.</p>
 
-<h2 id="part-b-possible-future-technology">Part B: possible future technology</h2>
+<h2 id="future-tech"> Part B: possible future technology</h2>
 
 <div class="container">
   <div class="row">

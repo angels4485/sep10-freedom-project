@@ -1,8 +1,9 @@
 
 # Entry 6
-##### X/X/XX
+##### 5/10/26
 
-Text
+## MVP
+As I was working in my website, 
 
 [Previous](entry05.md) | [Next](entry07.md)
 

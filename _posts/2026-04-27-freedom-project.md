@@ -17,25 +17,38 @@ In this page, you will see many of the technologies which are currently being us
 
 
 
-## Existing Technology
+<h2 id="existing-tech"> Existing Technology </h2>
 As I mentioned earlier, Astrophysics is closely related to astronomy and cosmology. Therefore, some of the technologies that you will see are used for all of these three fields.
 
 ### Telescopes, their parts, and related tech
 Telescopes are devices that magnify objects that are far away. The name "telescope" covers a wide range of instruments. Most detect electromagnetic radiation, but there are major differences in how astronomers must go about collecting light (electromagnetic radiation) in different frequency bands.
 
 
- ![telescope image]({{"./prep/telescope.jpeg" | relative_url}})
+![telescope image]({{"./prep/telescope.jpeg" | relative_url}})
 
 ### CMOS chips
 
  These are modern digital imaging chips that convert light into electrons for capturing astronomical images. In astrophysics, they are rapidly replacing older CCD technologies due to superior speed, extremely low read noise, and high quantum efficiency (light sensitivity).
+<div class="container">
+  <div class="row">
+    <div>
+  <ul>
+    <li> CMOS Adapters</li>
+    <ul>
+        <li> A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.</li>
+    </ul>
+    <img src="imgs/CMOS.webp">
+    <li> CMOS Sensors</li>
+    <ul>
+      <li> A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).</li>
+    </ul>
+  </ul>
+    </div>
+  </div>
+</div>
 
- * CMOS Adapters
-    * A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.
- * CMOS Sensors
-   * A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).
-
-        ![]({{"./prep/cmos-censor.jpg" | relative_url}})
+![]({{"./prep/cmos-censor.jpg" | relative_url}})
+<!-- <img src="{{"./prep/cmos-censor.jpg" | relative_url}}"alt="censor image"> -->
 
 #### Far IR
 
@@ -43,6 +56,8 @@ The far-IR is a powerful but relatively unexplored spectral band that can enable
 
 Far Infrared detectors are devices that measure thermal radiation, typically in the 20 to 500-micron range, used extensively for astronomical studies of dust-obscured galaxies and non-contact temperature sensing.
 
+
+![FIR detector]({{"./imgs/FIR.jpeg" | relative_url}})
 #### UVOIR
 Ultra Violet, optical, and infra red detectors are specialized sensors used for sensing electromagnetic radiation across different spectrums, often combined to enhance detection accuracy and eliminate false alarms in safety, security, and scientific applications.
 
@@ -107,7 +122,7 @@ Professional astronomers use macOS as a "daily driver" for data analysis, reduct
 
 
 
-## Part B: possible future technology
+<h2 id="future-tech"> Part B: possible future technology</h2>
 
 <div class="container">
   <div class="row">

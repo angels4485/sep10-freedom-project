@@ -8,7 +8,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 600px;
-    background:#1A1A1A !important ;
+    background:#36454F !important ;
     font-size:20px;
     color:white !important;
 }
@@ -19,4 +19,38 @@ body{
 
 .card {
     margin:5px;
+}
+
+/* .mycss{
+ background-color: #4D4D4D !important;
+} */
+
+.mycss.navbar {
+  background-color: #1A1A1A !important;
+  border-bottom: 1px solid #333;
+.mycss .navbar-brand {
+  color: white !important;
+  font-weight: 600;
+}
+
+mycss .nav-link {
+  color: #d0d0d0 !important;
+  transition: color 0.2s ease;
+}
+
+.mycss .nav-link:hover {
+  color:lightblue !important;
+}
+
+.mycss .nav-link.active {
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+.mycss .navbar-toggler {
+  border-color: white;
+}
+
+.mycss .navbar-toggler-icon {
+  filter: invert(100%);
 }
