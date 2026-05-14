@@ -126,6 +126,62 @@ Professional astronomers use macOS as a "daily driver" for data analysis, reduct
 
 <div class="container">
   <div class="row">
+    </div>
+</div>
+
+<div class="accordion" id="myaccordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       A device that absorbs gravitational potential energy
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#myaccordion">
+      <div class="accordion-body">
+         <ul class="card-text">
+          <li> This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.</li>
+          <li> If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        A spacecraft, satellite, or another device that could re-use its energy.
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#myaccordion">
+      <div class="accordion-body">
+       <p class="card-text"> This device would have to find a way of converting the energy lost as heat back into electrical energy, or a type of fuel.</p>
+        <p class="card-text">At first this device could be massive, but then with time and as our engineering knowledge increases we might be able to shrink it down to the size of a space telescope.</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        A device that could exist in impossible physics, such as in a black hole.
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#myaccordion">
+      <div class="accordion-body">
+        <p> This is mostly hypothetical because we don’t even know how physics works inside something like a black hole, but maybe this device could resist the gravity of the black hole (potentially using a device that absorbs gravitational potential energy).</p>
+        <p>A device that could transform energy so fast that extreme heat wouldn’t affect it.</p>
+        <p>This device could endure extreme temperatures such as the ones in the center of stars</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- code i ended up not using
+
+
+
+
+<div class="container">
+  <div class="row">
     <div class="card col-md-4" style="width: 700px;">
       <div class="card-body">
         <h4 class="card-title"> A device that absorbs gravitational potential energy.</h4>
@@ -152,3 +208,25 @@ Professional astronomers use macOS as a "daily driver" for data analysis, reduct
     </div>
   </div>
 </div>
+
+<div class="accordion" id="myaccordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       A device that absorbs gravitational potential energy
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#myaccordion">
+      <div class="accordion-body">
+         <ul class="card-text">
+          <li> This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.</li>
+          <li> If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+
+ -->
+

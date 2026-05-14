@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-11T11:52:57-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-13T23:36:31-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>This site is meant to be for all of my projects, kind of like a portfolio, but public :) Click the name of a Project in order to see it.</subtitle><entry><title type="html">Freedom project</title><link href="http://localhost:4000/2026/04/27/freedom-project.html" rel="alternate" type="text/html" title="Freedom project" /><published>2026-04-27T00:00:00-04:00</published><updated>2026-04-27T00:00:00-04:00</updated><id>http://localhost:4000/2026/04/27/freedom-project</id><content type="html" xml:base="http://localhost:4000/2026/04/27/freedom-project.html"><![CDATA[<!-- <div class="title">
 <h1> Astrophysics</h1>
 </div> -->
 
@@ -108,6 +108,61 @@
 
 <div class="container">
   <div class="row">
+    </div>
+</div>
+
+<div class="accordion" id="myaccordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       A device that absorbs gravitational potential energy
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#myaccordion">
+      <div class="accordion-body">
+         <ul class="card-text">
+          <li> This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.</li>
+          <li> If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        A spacecraft, satellite, or another device that could re-use its energy.
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#myaccordion">
+      <div class="accordion-body">
+       <p class="card-text"> This device would have to find a way of converting the energy lost as heat back into electrical energy, or a type of fuel.</p>
+        <p class="card-text">At first this device could be massive, but then with time and as our engineering knowledge increases we might be able to shrink it down to the size of a space telescope.</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        A device that could exist in impossible physics, such as in a black hole.
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#myaccordion">
+      <div class="accordion-body">
+        <p> This is mostly hypothetical because we don’t even know how physics works inside something like a black hole, but maybe this device could resist the gravity of the black hole (potentially using a device that absorbs gravitational potential energy).</p>
+        <p>A device that could transform energy so fast that extreme heat wouldn’t affect it.</p>
+        <p>This device could endure extreme temperatures such as the ones in the center of stars</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- code i ended up not using
+
+
+
+
+<div class="container">
+  <div class="row">
     <div class="card col-md-4" style="width: 700px;">
       <div class="card-body">
         <h4 class="card-title"> A device that absorbs gravitational potential energy.</h4>
@@ -133,4 +188,25 @@
       </div>
     </div>
   </div>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+</div>
+
+<div class="accordion" id="myaccordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       A device that absorbs gravitational potential energy
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#myaccordion">
+      <div class="accordion-body">
+         <ul class="card-text">
+          <li> This device could use potential energy as fuel, to regulate its temperature, create electricity, or just continue to travel in its desired path in space.</li>
+          <li> If this device was a space-machine it would need a way of conserving its energy. Otherwise, it would stop in the middle of nowhere.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+
+ -->]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>

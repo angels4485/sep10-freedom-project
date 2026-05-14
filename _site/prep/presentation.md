@@ -1,16 +1,26 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Astrophysics is the branch of science that uses the laws of physics and chemistry in order to explore the universe and how celestial objects work. This website explores different technologies used in this field along with technologies that would be useful in the future.
 
 ## Product
-* 
+* In this website I mainly discussed technologies such as telescopes, parts of telescopes such as sensors, software and rockets.
+
 
 ## Process
-* 
+* Learning Jekyll was one of the things that I had to do in order to create my website. I used different online resources to make research that would help me understant jekyll, and i also tried to replicate what I learned in my IDE.
+
+Once I started working on my website I added a Jekyll site to my project. This automatically gave my website responsiveness to different screen sizes and gave it a specific structure. After I added Jekyll to my website I had to figure out a way of adding CSS and Bootstrap on top of Jekyll, since Jekyll themes use their own CSS.
+
+* Screenshots of the things I had to do in order to make website work
+* Screenshots of website not working
 
 ## Conclusion
-* 
+url to website
+* Takeaways:
+  * Regulate your commitments
+  * take a break when you **can**--before you **have** to.
+  *
 
 <!-- EXAMPLE
 

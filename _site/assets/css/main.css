@@ -4,14 +4,12 @@
  */
 
 body{
-    background-image:url("/imgs/stars.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 600px;
-    background:#36454F !important ;
-    font-size:20px;
-    color:white !important;
+
+    background:#F7FAFC!important ;
+    color:#1A1A1A  !important;
 }
+
+h1
 
 .title{
     text-align:center;
@@ -33,16 +31,16 @@ body{
   font-weight: 600;
 }
 
-mycss .nav-link {
-  color: #d0d0d0 !important;
+.mycss .nav-link {
+  color: #F7FAFC !important;
   transition: color 0.2s ease;
 }
 
-.mycss .nav-link:hover {
-  color:lightblue !important;
+ /* .mycss .nav-link*/ a:hover {
+  color:skyblue !important;
 }
 
-.mycss .nav-link.active {
+a,.mycss .nav-link.active {
   color: #ffffff !important;
   font-weight: 600;
 }
