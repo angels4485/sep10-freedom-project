@@ -36,8 +36,9 @@ Telescopes are devices that magnify objects that are far away. The name "telesco
     <li> CMOS Adapters</li>
     <ul>
         <li> A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.</li>
+        <!-- <img src="./imgs/CMOS.webp"> -->
+        ![]({{"./imgs/CMOS.webp" | relative_url}})
     </ul>
-    <img src="imgs/CMOS.webp">
     <li> CMOS Sensors</li>
     <ul>
       <li> A device that captures faint light from distant stars, galaxies, and other celestial objects. These sensors record the data gathered from a telescope and convert it into an usable format (like an image or video).</li>
@@ -48,6 +49,7 @@ Telescopes are devices that magnify objects that are far away. The name "telesco
 </div>
 
 ![]({{"./prep/cmos-censor.jpg" | relative_url}})
+<!-- <img src="./prep/cmos-censor.jpg"> -->
 <!-- <img src="{{"./prep/cmos-censor.jpg" | relative_url}}"alt="censor image"> -->
 
 #### Far IR
