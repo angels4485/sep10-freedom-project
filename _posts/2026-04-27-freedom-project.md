@@ -86,7 +86,7 @@ Astronomers use Python to reduce raw data from telescopes—such as the Mars rov
 
 
 
-#### Interactive Dara Language
+#### Interactive Data Language
 IDL is a type of specification language used to allow software components written in different programming languages to communicate.
 
 IDL is used for rapid image processing, such as creating star maps and analyzing signals by creating histograms or manipulating image arrays. Additionally, it is the standard tool for reading, editing, and saving FITS (Flexible Image Transport System) images, which are common in astronomical imaging.
