@@ -16,7 +16,7 @@ Back in the beggining of the year, I had to learn how to code using HTML and CSS
 In the middle of this course, we started to learn how to use Bootstrap components and how they work. Knowing how to use this has allowed me to implement them to my website to make it more accessible and interactive.
 
 ### Jekyll
-Before starting to code, we chose a specific tool and then had to learn it individually.
+Before starting to code, we chose a specific tool and then had to learn it individually. The tool that I chose was Jekyll. Jekyll is a tool static site generator that allows you to create a website with a theme that looks professional and makes your website responsive.
 
 ### Planning
 
