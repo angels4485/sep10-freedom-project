@@ -37,7 +37,7 @@ Telescopes are devices that magnify objects that are far away. The name "telesco
     <ul>
         <li> A mechanical or optical interface that connects a CMOS-based scientific camera to a telescope or other astronomical instrument.</li>
         <!-- <img src="./imgs/CMOS.webp"> -->
-        ![]({{"./imgs/CMOS.webp" | relative_url}})
+        <!-- ![]({{"./imgs/CMOS.webp" | relative_url}}) -->
     </ul>
     <li> CMOS Sensors</li>
     <ul>
